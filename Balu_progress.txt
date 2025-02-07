@@ -1,0 +1,5 @@
+Day 1: 1/7/2025
+
+Learned -  Basic git commands, html tags, css
+Implement - Created a simple html file styled using css
+Challenges - Faced difficulty in setting up ssh key.
