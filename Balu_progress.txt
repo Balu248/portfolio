@@ -21,3 +21,12 @@ Implement - Created multiple webpages for those mentioned in the home page -
 
 Challenges - Styling for footer,main,contact page was bit difficult. 
              Also faced difficulty for displaying in box format.
+
+Day 4: 9/2/2025
+
+Learned - Html tags -> <section id>, to create separate section ids for all those in the home page. 
+          CSS elements -> to give separate styles for all sections using #.
+Implement - Merged multiple webpages using section tag and styled using css.
+            Provided link for download CV button to function.
+            Finally portfolio is created.
+Challenges - Faced difficulty in providing different styles for each sections as all are in same external css.
